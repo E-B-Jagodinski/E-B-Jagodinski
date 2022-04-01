@@ -1,7 +1,8 @@
 # E.B. Jagodinski
 
-[email](ejagodin@fau.edu)
-[LinkedIn](http://www.linkedin.com/in/eric-jagodinski)
+&nbsp; &nbsp; &nbsp; &nbsp;
+[email](ejagodin@fau.edu) &nbsp;
+[LinkedIn](http://www.linkedin.com/in/eric-jagodinski) &nbsp;
 [Twitter](https://twitter.com/EricJagodinski)
 
 # About Me
@@ -10,6 +11,8 @@ Current doctoral candidate at Florida Atlantic University with a focus on Machin
 My background is in systems engineering studying underwater robotics and received my bachelors and masters in 
 Ocean Systems Engineering. Since then, I've moved into Data Science and Physics for my dissertation where I 
 found a passion for programming and computers.
+
+<img src=wholeDomain.png width="750">
 
 # Current Research
 
