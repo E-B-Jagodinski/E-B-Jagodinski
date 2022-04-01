@@ -1,9 +1,8 @@
 # E.B. Jagodinski
 
-&nbsp; &nbsp; &nbsp; &nbsp;
-[Email](ejagodin@fau.edu) &nbsp;
-[LinkedIn](http://www.linkedin.com/in/eric-jagodinski) &nbsp;
-[Twitter](https://twitter.com/EricJagodinski)
+- [Email](ejagodin@fau.edu)
+- [LinkedIn](http://www.linkedin.com/in/eric-jagodinski);
+- [Twitter](https://twitter.com/EricJagodinski)
 
 # About Me
 
