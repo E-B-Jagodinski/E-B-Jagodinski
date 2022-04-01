@@ -1,8 +1,8 @@
-- E.B. Jagodinski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# E.B. Jagodinski
+
+[email](ejagodin@fau.edu)
+[LinkedIn](http://www.linkedin.com/in/eric-jagodinski)
+[Twitter](https://twitter.com/EricJagodinski)
 
 # About Me
 
