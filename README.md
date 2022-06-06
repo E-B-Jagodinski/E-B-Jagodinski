@@ -2,6 +2,8 @@
 - [LinkedIn](http://www.linkedin.com/in/eric-jagodinski)
 - [Twitter](https://twitter.com/EricJagodinski)
 
+### Note: Our lab uses GitLab and all our repos are private so don't judge my activity on here.
+
 # About Me
 
 Current doctoral candidate at Florida Atlantic University with a focus on Machine Learning and Fluid Mechanics. 
