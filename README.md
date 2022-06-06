@@ -5,13 +5,9 @@
 # About Me
 
 Current doctoral candidate at Florida Atlantic University with a focus on Machine Learning and Fluid Mechanics. 
-8
 I grew up in a small town in North Carolina where I combined my love of scuba diving with my enthusiasm for science and math to pursue an undergraduate in Ocean Systems Engineering at Florida Atlantic University. 
-9
 My background is in systems engineering studying underwater robotics and received my bachelors and masters in 
-10
 Ocean Systems Engineering. Since then, I've moved into Data Science and Physics for my dissertation where I 
-11
 found a passion for programming and computers.
 
 <img src=wholeDomain.png width="750">
