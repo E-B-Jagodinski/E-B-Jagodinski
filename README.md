@@ -1,4 +1,5 @@
 - [Email](ejagodin@fau.edu)
+- [Website](http://www.jagodinski.com)
 - [LinkedIn](http://www.linkedin.com/in/eric-jagodinski)
 - [Twitter](https://twitter.com/EricJagodinski)
 
