@@ -1,7 +1,6 @@
 - [Email](ejagodin@fau.edu)
 - [LinkedIn](http://www.linkedin.com/in/eric-jagodinski)
 - [Twitter](https://twitter.com/EricJagodinski)
-- [Public Research Gitlab Projects](https://gitlab.com/ejagodin)
 
 # About Me
 
