@@ -3,7 +3,7 @@
 - [LinkedIn](http://www.linkedin.com/in/eric-jagodinski)
 - [Twitter](https://twitter.com/EricJagodinski)
 
-### Note: Our lab uses GitLab and all our repos are private so don't judge my activity on here.
+## Note: Our lab uses GitLab and all our repos are private so please don't judge my activity on here. I'm still copying over what I can display publicly.
 
 # About Me
 
